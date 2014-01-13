@@ -1,0 +1,12 @@
+div {
+  height: 250px;
+  width: 250px;
+  background-color: red;
+  border-radius: 50%;
+  margin: 0 auto;
+  color: white;
+  text-align : center;
+  line-height: 250px;
+  font-size: 80px;
+  margin-top: 25%;
+}
